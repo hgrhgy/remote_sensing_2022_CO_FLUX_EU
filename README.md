@@ -11,6 +11,7 @@ The code includes Figures and inventories procossing.
 
 # Acknowledgements
 The authors acknowledge the free availability of the WRF-Chem model provided by NOAA Earth System Research Laboratories, the WRF-Chem preprocess tools, the DART system , and the Community Atmosphere Model with Chemistry (CAM-Chem) Outputs as Boundary Conditions dataset provided by NCAR, the MOPITT version 8 level 2 CO retrieval data products  from NASA Earthdata center, the Final Operational Global Analysis data (FNL) and Global Upper Air and Surface Weather Observations from NCEP, ground-CO concentration observations from ICOS, the anthropogenic CO fluxes from the Emissions Database for Global Atmospheric Research part II Air Pollutants gridmaps dataset V4.3.2  and V5.0 and UNFCCC National Inventory Submissions 2021, the input data files needed to calculate the biogenic CO fluxes from the University Corporation for Atmospheric Research, and the biomass-burning CO fluxes from the Fire Inventory from NCAR V1.5 dataset.
+
 If you use this code, please consider citing the following paper.
 
 ```bibtex
